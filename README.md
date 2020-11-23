@@ -16,4 +16,7 @@ In this project, We will make IoT Smart Agriculture with Automatic Irrigation Sy
   * Breadboard
   ## Capacitive Soil Moisture Sensor
   This is an analog capacitive soil moisture sensor which measures soil moisture levels by capacitive sensing, i.e capacitance is varied on the basis of water content present in the soil. The capacitance is converted into voltage level basically from 1.2V to 3.0V maximum. The advantage of Capacitive Soil Moisture Sensor is that they are made of a corrosion-resistant material giving it a long service life.
+  ![capacitive](https://user-images.githubusercontent.com/74179068/99934705-b9bc7200-2d84-11eb-81a2-16b10df0d8aa.jpg)
+## DHT11 Humidity Temperature Sensor
+The DHT11 is a basic, ultra low-cost digital temperature and humidity sensor. It uses a capacitive humidity sensor and a thermistor to measure the surrounding air, and spits out a digital signal on the data pin (no analog input pins needed).
   
