@@ -19,4 +19,6 @@ In this project, We will make IoT Smart Agriculture with Automatic Irrigation Sy
   ![capacitive](https://user-images.githubusercontent.com/74179068/99934705-b9bc7200-2d84-11eb-81a2-16b10df0d8aa.jpg)
 ## DHT11 Humidity Temperature Sensor
 The DHT11 is a basic, ultra low-cost digital temperature and humidity sensor. It uses a capacitive humidity sensor and a thermistor to measure the surrounding air, and spits out a digital signal on the data pin (no analog input pins needed).
+![dht11-humidity-sensor](https://user-images.githubusercontent.com/74179068/99934795-07d17580-2d85-11eb-8c65-076b8708aa4a.jpg)
+
   
